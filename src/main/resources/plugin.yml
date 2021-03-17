@@ -1,0 +1,4 @@
+name: MongoDBpractice
+version: @version@
+main: mongodbpractice.mongodbpractice.MongoDBpractice
+api-version: 1.16

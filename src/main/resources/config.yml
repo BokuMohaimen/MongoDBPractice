@@ -1,0 +1,8 @@
+mongo:
+  host: localhost
+  user: user
+  pass: password
+  port: 27017
+  db: template
+  # You can set the uri as you like.
+  uri: "?authSource=admin"
